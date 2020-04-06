@@ -13,6 +13,7 @@ enabled = true
 
   [analyzers.meta]
   import_path = "github.com/mtdev2/github"
+  dependencies_vendored = true
 
 [[analyzers]]
 name = "test-coverage"
