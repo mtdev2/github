@@ -26,8 +26,13 @@ depfu/update/npm/@octokit/rest-17.11.2
     "bottleneck": "^2.18.1",
     "debug": "^4.0.0",
     "dir-glob": "^3.0.0",
+
+    "fs-extra": "^9.0.0",
+    "globby": "11.0.1",
+
     "fs-extra": "9.0.1",
     "globby": "^11.0.0",
+depfu/check/npm/globby-11.0.1
     "http-proxy-agent": "^4.0.0",
     "https-proxy-agent": "^5.0.0",
     "issue-parser": "^6.0.0",
