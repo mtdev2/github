@@ -16,14 +16,23 @@
     "Gregor Martynus (https://twitter.com/gr2m)"
   ],
   "dependencies": {
-    "@octokit/rest": "17.9.2",
+
+    "@octokit/rest": "17.11.2",
+
+    "@octokit/rest": "18.0.0",
+depfu/update/npm/@octokit/rest-17.11.2
     "@semantic-release/error": "^2.2.0",
     "aggregate-error": "^3.0.0",
     "bottleneck": "^2.18.1",
     "debug": "^4.0.0",
     "dir-glob": "^3.0.0",
+
     "fs-extra": "^9.0.0",
     "globby": "11.0.1",
+
+    "fs-extra": "9.0.1",
+    "globby": "^11.0.0",
+depfu/check/npm/globby-11.0.1
     "http-proxy-agent": "^4.0.0",
     "https-proxy-agent": "^5.0.0",
     "issue-parser": "^6.0.0",
@@ -45,7 +54,7 @@
     "server-destroy": "^1.0.1",
     "sinon": "^9.0.0",
     "tempy": "^0.5.0",
-    "xo": "^0.30.0"
+    "xo": "^0.32.0"
   },
   "engines": {
     "node": ">=10.18"
