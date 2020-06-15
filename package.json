@@ -37,7 +37,7 @@ depfu/check/npm/globby-11.0.1
     "https-proxy-agent": "^5.0.0",
     "issue-parser": "^6.0.0",
     "lodash": "^4.17.4",
-    "mime": "2.4.5",
+    "mime": "2.4.6",
     "p-filter": "^2.0.0",
     "p-retry": "^4.0.0",
     "url-join": "^4.0.0"
